@@ -1,0 +1,1189 @@
+Features,Model,Forecasting window,RMSE,MAPE,MAE
+(Lag Only),Linear Regression,1,573.11,1.77,526.5
+(Lag Only),Linear Regression,2,335.05,1.23,328.37
+(Lag Only),Linear Regression,3,58.57,0.27,55.33
+(Lag Only),Linear Regression,4,64.74,0.11,50.42
+(Lag Only),Linear Regression,5,44.0,0.08,42.42
+(Lag Only),Linear Regression,6,48.05,0.12,41.21
+(Lag Only),Linear Regression,7,60.26,0.16,57.12
+(Lag Only),Linear Regression,8,114.07,0.12,88.41
+(Lag Only),Linear Regression,9,155.05,0.21,149.05
+(Lag Only),Linear Regression,10,92.16,0.27,65.83
+(Lag Only),Linear Regression,11,170.19,0.28,137.14
+(Lag Only),Linear Regression,12,172.13,0.17,142.86
+(Lag Only),Linear Regression,13,127.25,0.12,99.2
+(Lag Only),Linear Regression,14,241.37,0.36,239.61
+(Lag Only),Linear Regression,15,235.62,0.31,209.64
+(Lag Only),Linear Regression,16,102.05,0.1,97.55
+(Lag Only),Linear Regression,17,212.02,0.18,135.7
+(Lag Only),Linear Regression,18,251.11,0.46,247.82
+(Lag Only),Linear Regression,19,293.59,0.57,290.6
+(Lag Only),Linear Regression,20,106.8,0.13,105.29
+(Lag Only),Linear Regression,21,89.31,0.09,85.29
+(Lag Only),Linear Regression,22,489.71,0.36,437.14
+(Lag Only),Linear Regression,23,641.17,0.89,591.15
+(Lag Only),Linear Regression,24,447.13,0.3,395.57
+(Lag Only),Linear Regression,25,232.4,0.09,141.75
+(Lag Only),Linear Regression,26,476.87,0.15,283.93
+(Lag Only),Linear Regression,27,221.43,0.16,204.43
+(Lag Only),Linear Regression,28,205.72,0.14,199.74
+(Lag Only),Linear Regression,29,62.47,0.04,61.81
+(Lag Only),Linear Regression,30,136.27,0.11,115.83
+(Lag Only),Linear Regression,31,299.33,0.24,272.81
+(Lag Only),Linear Regression,32,89.99,0.05,78.53
+(Lag Only),Linear Regression,33,183.83,0.1,151.7
+(Lag Only),Linear Regression,34,129.09,0.09,120.78
+(Lag Only),Linear Regression,35,258.15,0.1,185.26
+(Lag Only),Linear Regression,36,359.42,0.15,301.7
+(Lag Only),Linear Regression,37,375.59,0.15,342.33
+(Lag Only),Linear Regression,38,989.2,0.22,747.11
+(Lag Only),Linear Regression,39,262.19,0.07,184.94
+(Lag Only),Linear Regression,40,479.5,0.11,369.28
+(Lag Only),Linear Regression,41,364.74,0.09,354.56
+(Lag Only),Linear Regression,42,1409.14,0.16,1086.55
+(Lag Only),Linear Regression,43,1417.33,0.25,1192.09
+(Lag Only),Linear Regression,44,1459.75,0.19,1238.81
+(Lag Only),Linear Regression,45,2202.47,0.21,1771.1
+(Lag Only),Linear Regression,46,8573.53,0.42,6727.31
+(Lag Only),Linear Regression,47,18572.82,1.98,14781.62
+(Lag Only),Linear Regression,48,20815.93,3.0,20421.07
+(Lag Only),Linear Regression,49,3025.12,0.26,2895.58
+(Lag Only),Linear Regression,50,12905.53,0.35,9225.99
+(Lag Only),Linear Regression,51,12315.94,1.3,11518.46
+(Lag Only),Linear Regression,52,1001.15,0.08,938.35
+(Lag Only),Linear Regression,53,2282.18,0.14,2064.81
+(Lag Only),Linear Regression,54,7226.27,0.18,4831.9
+(Lag Only),Linear Regression,55,2936.31,0.18,2547.5
+(Lag Only),Linear Regression,56,889.4,0.05,841.93
+(Lag Only),Linear Regression,57,2233.97,0.11,1716.82
+(Lag Only),Linear Regression,58,2937.5,0.16,2815.77
+(Lag Only),Linear Regression,59,3995.17,0.12,2633.88
+(Lag Only),Linear Regression,60,3683.96,0.12,3034.37
+(Lag Only),Linear Regression,61,3941.95,0.12,3048.68
+(Lag Only),Linear Regression,62,3063.49,0.12,2816.56
+(Lag Only),Linear Regression,63,3406.71,0.1,2701.38
+(Lag Only),Linear Regression,64,1207.93,0.03,922.33
+(Lag Only),Linear Regression,65,1711.71,0.06,1459.13
+(Lag Only),Linear Regression,66,5138.14,0.13,4736.27
+(Lag Only),XGBoost,1,60.19,0.16,42.61
+(Lag Only),XGBoost,2,64.66,0.22,57.11
+(Lag Only),XGBoost,3,89.75,0.41,86.03
+(Lag Only),XGBoost,4,182.31,0.36,171.33
+(Lag Only),XGBoost,5,53.4,0.08,42.06
+(Lag Only),XGBoost,6,149.4,0.4,132.93
+(Lag Only),XGBoost,7,104.64,0.32,104.18
+(Lag Only),XGBoost,8,272.78,0.35,264.29
+(Lag Only),XGBoost,9,230.6,0.27,196.28
+(Lag Only),XGBoost,10,144.39,0.38,131.2
+(Lag Only),XGBoost,11,83.39,0.18,77.57
+(Lag Only),XGBoost,12,85.04,0.09,78.28
+(Lag Only),XGBoost,13,116.8,0.12,90.86
+(Lag Only),XGBoost,14,157.38,0.2,139.66
+(Lag Only),XGBoost,15,273.47,0.33,228.91
+(Lag Only),XGBoost,16,346.99,0.36,340.9
+(Lag Only),XGBoost,17,178.7,0.19,155.88
+(Lag Only),XGBoost,18,114.48,0.17,98.41
+(Lag Only),XGBoost,19,205.51,0.31,150.32
+(Lag Only),XGBoost,20,152.88,0.18,147.19
+(Lag Only),XGBoost,21,77.52,0.06,56.8
+(Lag Only),XGBoost,22,677.57,0.38,523.6
+(Lag Only),XGBoost,23,699.7,0.81,572.75
+(Lag Only),XGBoost,24,269.67,0.14,188.47
+(Lag Only),XGBoost,25,257.67,0.16,221.0
+(Lag Only),XGBoost,26,593.71,0.36,534.81
+(Lag Only),XGBoost,27,377.47,0.28,340.71
+(Lag Only),XGBoost,28,290.36,0.18,255.1
+(Lag Only),XGBoost,29,163.55,0.11,146.79
+(Lag Only),XGBoost,30,267.84,0.18,228.74
+(Lag Only),XGBoost,31,351.18,0.28,306.11
+(Lag Only),XGBoost,32,300.3,0.17,277.74
+(Lag Only),XGBoost,33,226.52,0.13,200.95
+(Lag Only),XGBoost,34,111.28,0.08,109.9
+(Lag Only),XGBoost,35,304.1,0.18,291.62
+(Lag Only),XGBoost,36,531.36,0.23,479.57
+(Lag Only),XGBoost,37,345.92,0.14,320.73
+(Lag Only),XGBoost,38,902.36,0.18,642.99
+(Lag Only),XGBoost,39,745.77,0.2,614.64
+(Lag Only),XGBoost,40,493.47,0.09,357.65
+(Lag Only),XGBoost,41,834.31,0.15,650.58
+(Lag Only),XGBoost,42,2269.55,0.29,1873.31
+(Lag Only),XGBoost,43,2128.46,0.31,1816.42
+(Lag Only),XGBoost,44,992.25,0.12,768.74
+(Lag Only),XGBoost,45,2567.02,0.2,1819.06
+(Lag Only),XGBoost,46,9680.91,0.38,6990.99
+(Lag Only),XGBoost,47,9090.7,0.78,5973.39
+(Lag Only),XGBoost,48,1491.4,0.22,1481.25
+(Lag Only),XGBoost,49,1878.82,0.15,1745.89
+(Lag Only),XGBoost,50,6430.83,0.23,5232.95
+(Lag Only),XGBoost,51,6618.54,0.55,4624.05
+(Lag Only),XGBoost,52,2879.89,0.2,2605.0
+(Lag Only),XGBoost,53,2368.7,0.14,2027.03
+(Lag Only),XGBoost,54,900.43,0.04,751.3
+(Lag Only),XGBoost,55,5521.37,0.28,4750.72
+(Lag Only),XGBoost,56,1209.43,0.06,1081.44
+(Lag Only),XGBoost,57,2156.19,0.13,2111.56
+(Lag Only),XGBoost,58,4521.24,0.21,3899.95
+(Lag Only),XGBoost,59,4641.77,0.13,2938.07
+(Lag Only),XGBoost,60,2784.31,0.11,2372.45
+(Lag Only),XGBoost,61,3760.57,0.11,2985.93
+(Lag Only),XGBoost,62,2782.02,0.11,2486.99
+(Lag Only),XGBoost,63,2795.4,0.09,2278.02
+(Lag Only),XGBoost,64,2128.14,0.06,1735.74
+(Lag Only),XGBoost,65,2651.32,0.06,1627.46
+(Lag Only),XGBoost,66,12526.15,0.32,11443.09
+(Lag Only),ARIMA (Lag Only),1,199.65,0.62,178.68
+(Lag Only),ARIMA (Lag Only),2,81.98,0.32,78.2
+(Lag Only),ARIMA (Lag Only),3,68.2,0.25,61.33
+(Lag Only),ARIMA (Lag Only),4,185.05,0.38,179.96
+(Lag Only),ARIMA (Lag Only),5,84.64,0.15,72.75
+(Lag Only),ARIMA (Lag Only),6,136.62,0.35,112.06
+(Lag Only),ARIMA (Lag Only),7,142.24,0.24,104.71
+(Lag Only),ARIMA (Lag Only),8,213.7,0.28,207.14
+(Lag Only),ARIMA (Lag Only),9,249.78,0.38,242.0
+(Lag Only),ARIMA (Lag Only),10,186.66,0.6,168.41
+(Lag Only),ARIMA (Lag Only),11,323.67,0.54,287.02
+(Lag Only),ARIMA (Lag Only),12,237.62,0.23,212.41
+(Lag Only),ARIMA (Lag Only),13,97.91,0.1,68.75
+(Lag Only),ARIMA (Lag Only),14,160.84,0.23,150.74
+(Lag Only),ARIMA (Lag Only),15,330.58,0.28,240.48
+(Lag Only),ARIMA (Lag Only),16,60.04,0.06,57.29
+(Lag Only),ARIMA (Lag Only),17,234.52,0.28,210.0
+(Lag Only),ARIMA (Lag Only),18,123.64,0.21,108.31
+(Lag Only),ARIMA (Lag Only),19,89.76,0.12,70.01
+(Lag Only),ARIMA (Lag Only),20,266.35,0.3,256.17
+(Lag Only),ARIMA (Lag Only),21,62.24,0.05,43.29
+(Lag Only),ARIMA (Lag Only),22,452.81,0.32,384.97
+(Lag Only),ARIMA (Lag Only),23,983.54,1.54,945.03
+(Lag Only),ARIMA (Lag Only),24,301.37,0.17,245.72
+(Lag Only),ARIMA (Lag Only),25,175.84,0.13,173.9
+(Lag Only),ARIMA (Lag Only),26,418.85,0.3,407.33
+(Lag Only),ARIMA (Lag Only),27,744.51,0.63,684.67
+(Lag Only),ARIMA (Lag Only),28,195.83,0.14,195.61
+(Lag Only),ARIMA (Lag Only),29,217.82,0.14,184.15
+(Lag Only),ARIMA (Lag Only),30,256.96,0.19,209.73
+(Lag Only),ARIMA (Lag Only),31,418.03,0.32,382.68
+(Lag Only),ARIMA (Lag Only),32,161.97,0.1,149.12
+(Lag Only),ARIMA (Lag Only),33,325.5,0.23,316.17
+(Lag Only),ARIMA (Lag Only),34,376.35,0.25,326.86
+(Lag Only),ARIMA (Lag Only),35,423.58,0.26,409.76
+(Lag Only),ARIMA (Lag Only),36,396.54,0.18,337.61
+(Lag Only),ARIMA (Lag Only),37,290.98,0.13,288.21
+(Lag Only),ARIMA (Lag Only),38,968.57,0.22,721.99
+(Lag Only),ARIMA (Lag Only),39,1137.46,0.37,1072.7
+(Lag Only),ARIMA (Lag Only),40,622.5,0.15,541.16
+(Lag Only),ARIMA (Lag Only),41,657.4,0.16,609.96
+(Lag Only),ARIMA (Lag Only),42,1845.0,0.23,1445.1
+(Lag Only),ARIMA (Lag Only),43,3480.1,0.66,3349.26
+(Lag Only),ARIMA (Lag Only),44,1403.48,0.21,1126.58
+(Lag Only),ARIMA (Lag Only),45,2343.56,0.28,2128.66
+(Lag Only),ARIMA (Lag Only),46,9090.46,0.5,6936.63
+(Lag Only),ARIMA (Lag Only),47,29971.95,4.13,29643.12
+(Lag Only),ARIMA (Lag Only),48,3044.89,0.3,2331.83
+(Lag Only),ARIMA (Lag Only),49,5537.4,0.44,5083.2
+(Lag Only),ARIMA (Lag Only),50,15997.08,0.41,11248.27
+(Lag Only),ARIMA (Lag Only),51,26545.76,3.07,26506.64
+(Lag Only),ARIMA (Lag Only),52,7005.07,0.44,5952.44
+(Lag Only),ARIMA (Lag Only),53,4923.54,0.3,4458.81
+(Lag Only),ARIMA (Lag Only),54,12668.56,0.41,9801.76
+(Lag Only),ARIMA (Lag Only),55,8630.5,0.54,7652.19
+(Lag Only),ARIMA (Lag Only),56,4420.41,0.19,3390.13
+(Lag Only),ARIMA (Lag Only),57,2518.73,0.13,2068.04
+(Lag Only),ARIMA (Lag Only),58,7143.59,0.27,5442.17
+(Lag Only),ARIMA (Lag Only),59,5189.78,0.21,4409.58
+(Lag Only),ARIMA (Lag Only),60,5837.08,0.21,5053.11
+(Lag Only),ARIMA (Lag Only),61,3199.24,0.11,2826.1
+(Lag Only),ARIMA (Lag Only),62,1763.57,0.07,1599.69
+(Lag Only),ARIMA (Lag Only),63,6099.92,0.17,4738.06
+(Lag Only),ARIMA (Lag Only),64,2214.57,0.07,1941.46
+(Lag Only),ARIMA (Lag Only),65,3091.59,0.09,2452.78
+(Lag Only),ARIMA (Lag Only),66,9324.91,0.22,7964.66
+Keywords + Lag,Linear Regression,1,568.68,1.75,521.61
+Keywords + Lag,Linear Regression,2,97.95,0.35,92.41
+Keywords + Lag,Linear Regression,3,78.69,0.34,67.69
+Keywords + Lag,Linear Regression,4,94.57,0.19,84.63
+Keywords + Lag,Linear Regression,5,20.13,0.04,19.86
+Keywords + Lag,Linear Regression,6,51.84,0.14,50.21
+Keywords + Lag,Linear Regression,7,73.06,0.21,67.53
+Keywords + Lag,Linear Regression,8,135.05,0.13,103.82
+Keywords + Lag,Linear Regression,9,183.3,0.23,166.28
+Keywords + Lag,Linear Regression,10,91.06,0.26,65.4
+Keywords + Lag,Linear Regression,11,163.82,0.28,135.45
+Keywords + Lag,Linear Regression,12,181.65,0.18,151.72
+Keywords + Lag,Linear Regression,13,125.03,0.12,98.27
+Keywords + Lag,Linear Regression,14,241.98,0.36,240.64
+Keywords + Lag,Linear Regression,15,239.68,0.36,227.14
+Keywords + Lag,Linear Regression,16,75.63,0.08,70.22
+Keywords + Lag,Linear Regression,17,380.07,0.45,329.49
+Keywords + Lag,Linear Regression,18,228.61,0.41,226.38
+Keywords + Lag,Linear Regression,19,294.4,0.57,290.48
+Keywords + Lag,Linear Regression,20,167.78,0.18,150.96
+Keywords + Lag,Linear Regression,21,97.69,0.1,93.74
+Keywords + Lag,Linear Regression,22,402.19,0.31,360.64
+Keywords + Lag,Linear Regression,23,837.03,1.24,774.66
+Keywords + Lag,Linear Regression,24,480.4,0.33,440.83
+Keywords + Lag,Linear Regression,25,231.83,0.09,139.54
+Keywords + Lag,Linear Regression,26,453.08,0.16,294.69
+Keywords + Lag,Linear Regression,27,71.09,0.06,70.3
+Keywords + Lag,Linear Regression,28,171.66,0.12,165.08
+Keywords + Lag,Linear Regression,29,143.85,0.09,129.01
+Keywords + Lag,Linear Regression,30,231.05,0.17,190.82
+Keywords + Lag,Linear Regression,31,443.36,0.35,381.01
+Keywords + Lag,Linear Regression,32,110.06,0.07,108.61
+Keywords + Lag,Linear Regression,33,200.75,0.1,158.53
+Keywords + Lag,Linear Regression,34,102.87,0.07,83.64
+Keywords + Lag,Linear Regression,35,223.09,0.1,170.25
+Keywords + Lag,Linear Regression,36,324.82,0.14,289.44
+Keywords + Lag,Linear Regression,37,272.0,0.11,243.36
+Keywords + Lag,Linear Regression,38,903.21,0.21,708.48
+Keywords + Lag,Linear Regression,39,204.79,0.06,168.24
+Keywords + Lag,Linear Regression,40,466.69,0.11,364.92
+Keywords + Lag,Linear Regression,41,338.7,0.09,327.03
+Keywords + Lag,Linear Regression,42,1241.02,0.16,1021.04
+Keywords + Lag,Linear Regression,43,1357.99,0.23,1106.95
+Keywords + Lag,Linear Regression,44,959.89,0.11,747.06
+Keywords + Lag,Linear Regression,45,2159.74,0.2,1711.68
+Keywords + Lag,Linear Regression,46,8695.23,0.38,6461.48
+Keywords + Lag,Linear Regression,47,17289.5,1.7,12861.38
+Keywords + Lag,Linear Regression,48,16621.15,2.47,16362.16
+Keywords + Lag,Linear Regression,49,3056.33,0.25,2819.15
+Keywords + Lag,Linear Regression,50,14521.4,0.42,10695.7
+Keywords + Lag,Linear Regression,51,10544.81,1.1,9894.24
+Keywords + Lag,Linear Regression,52,1532.32,0.1,1328.35
+Keywords + Lag,Linear Regression,53,1535.33,0.09,1300.42
+Keywords + Lag,Linear Regression,54,7359.3,0.19,4861.66
+Keywords + Lag,Linear Regression,55,8122.53,0.5,7934.78
+Keywords + Lag,Linear Regression,56,1431.99,0.07,1196.06
+Keywords + Lag,Linear Regression,57,2002.33,0.09,1556.56
+Keywords + Lag,Linear Regression,58,3720.14,0.1,2262.31
+Keywords + Lag,Linear Regression,59,5355.44,0.18,3964.91
+Keywords + Lag,Linear Regression,60,4928.26,0.17,4203.82
+Keywords + Lag,Linear Regression,61,4356.18,0.12,3262.78
+Keywords + Lag,Linear Regression,62,2232.35,0.08,1957.96
+Keywords + Lag,Linear Regression,63,4407.86,0.12,3236.65
+Keywords + Lag,Linear Regression,64,1958.86,0.07,1747.21
+Keywords + Lag,Linear Regression,65,1315.13,0.04,1108.84
+Keywords + Lag,Linear Regression,66,5721.75,0.15,5286.41
+Keywords + Lag,XGBoost,1,60.19,0.16,42.61
+Keywords + Lag,XGBoost,2,64.66,0.22,57.11
+Keywords + Lag,XGBoost,3,89.75,0.41,86.03
+Keywords + Lag,XGBoost,4,182.31,0.36,171.33
+Keywords + Lag,XGBoost,5,53.49,0.08,42.11
+Keywords + Lag,XGBoost,6,147.38,0.39,129.56
+Keywords + Lag,XGBoost,7,97.68,0.3,93.24
+Keywords + Lag,XGBoost,8,268.16,0.35,260.38
+Keywords + Lag,XGBoost,9,207.56,0.21,165.02
+Keywords + Lag,XGBoost,10,145.07,0.37,131.29
+Keywords + Lag,XGBoost,11,71.34,0.15,63.52
+Keywords + Lag,XGBoost,12,94.44,0.1,85.79
+Keywords + Lag,XGBoost,13,117.2,0.12,91.24
+Keywords + Lag,XGBoost,14,155.13,0.21,139.58
+Keywords + Lag,XGBoost,15,278.66,0.34,236.52
+Keywords + Lag,XGBoost,16,330.17,0.34,322.83
+Keywords + Lag,XGBoost,17,135.87,0.16,131.79
+Keywords + Lag,XGBoost,18,142.7,0.24,134.73
+Keywords + Lag,XGBoost,19,202.12,0.31,149.83
+Keywords + Lag,XGBoost,20,126.31,0.14,118.91
+Keywords + Lag,XGBoost,21,46.84,0.05,43.22
+Keywords + Lag,XGBoost,22,674.5,0.35,494.27
+Keywords + Lag,XGBoost,23,526.94,0.66,471.21
+Keywords + Lag,XGBoost,24,365.36,0.22,298.47
+Keywords + Lag,XGBoost,25,263.71,0.16,228.65
+Keywords + Lag,XGBoost,26,656.89,0.32,517.15
+Keywords + Lag,XGBoost,27,364.45,0.27,322.06
+Keywords + Lag,XGBoost,28,274.6,0.17,236.56
+Keywords + Lag,XGBoost,29,196.42,0.13,173.4
+Keywords + Lag,XGBoost,30,263.61,0.2,236.12
+Keywords + Lag,XGBoost,31,303.72,0.24,249.04
+Keywords + Lag,XGBoost,32,364.17,0.22,345.27
+Keywords + Lag,XGBoost,33,247.59,0.12,186.69
+Keywords + Lag,XGBoost,34,104.26,0.07,96.71
+Keywords + Lag,XGBoost,35,315.58,0.18,294.14
+Keywords + Lag,XGBoost,36,745.32,0.33,692.91
+Keywords + Lag,XGBoost,37,252.71,0.11,246.44
+Keywords + Lag,XGBoost,38,899.08,0.19,649.38
+Keywords + Lag,XGBoost,39,621.17,0.17,527.32
+Keywords + Lag,XGBoost,40,494.43,0.09,350.68
+Keywords + Lag,XGBoost,41,859.39,0.11,530.1
+Keywords + Lag,XGBoost,42,2265.83,0.29,1866.72
+Keywords + Lag,XGBoost,43,2430.24,0.35,2049.27
+Keywords + Lag,XGBoost,44,592.73,0.07,429.12
+Keywords + Lag,XGBoost,45,2514.33,0.18,1705.18
+Keywords + Lag,XGBoost,46,11512.14,0.52,8199.92
+Keywords + Lag,XGBoost,47,9061.21,0.76,5836.13
+Keywords + Lag,XGBoost,48,1072.85,0.15,920.62
+Keywords + Lag,XGBoost,49,2684.2,0.2,2382.21
+Keywords + Lag,XGBoost,50,10291.54,0.44,9191.62
+Keywords + Lag,XGBoost,51,6765.02,0.6,5044.72
+Keywords + Lag,XGBoost,52,2563.03,0.14,2017.73
+Keywords + Lag,XGBoost,53,3139.52,0.18,2695.02
+Keywords + Lag,XGBoost,54,2137.73,0.11,2039.88
+Keywords + Lag,XGBoost,55,4451.69,0.22,3775.11
+Keywords + Lag,XGBoost,56,964.32,0.05,811.49
+Keywords + Lag,XGBoost,57,1348.38,0.05,899.91
+Keywords + Lag,XGBoost,58,4156.7,0.17,3341.04
+Keywords + Lag,XGBoost,59,5032.42,0.15,3335.82
+Keywords + Lag,XGBoost,60,2400.01,0.1,2306.4
+Keywords + Lag,XGBoost,61,3710.85,0.12,3096.09
+Keywords + Lag,XGBoost,62,2297.57,0.09,2001.93
+Keywords + Lag,XGBoost,63,3341.73,0.11,2914.58
+Keywords + Lag,XGBoost,64,1146.07,0.04,1143.18
+Keywords + Lag,XGBoost,65,2298.21,0.08,2136.95
+Keywords + Lag,XGBoost,66,11196.52,0.31,10852.98
+Keywords + Lag,ARIMAX,1,332.82,0.91,250.25
+Keywords + Lag,ARIMAX,2,295.14,1.1,268.27
+Keywords + Lag,ARIMAX,3,102.97,0.4,74.94
+Keywords + Lag,ARIMAX,4,88.23,0.17,76.27
+Keywords + Lag,ARIMAX,5,45.85,0.08,42.29
+Keywords + Lag,ARIMAX,6,44.24,0.11,43.44
+Keywords + Lag,ARIMAX,7,103.17,0.28,94.51
+Keywords + Lag,ARIMAX,8,243.51,0.28,216.42
+Keywords + Lag,ARIMAX,9,377.14,0.55,373.89
+Keywords + Lag,ARIMAX,10,215.93,0.59,196.55
+Keywords + Lag,ARIMAX,11,144.52,0.24,127.83
+Keywords + Lag,ARIMAX,12,155.32,0.13,117.76
+Keywords + Lag,ARIMAX,13,112.89,0.12,95.19
+Keywords + Lag,ARIMAX,14,223.64,0.34,194.41
+Keywords + Lag,ARIMAX,15,399.62,0.64,387.5
+Keywords + Lag,ARIMAX,16,283.2,0.25,226.33
+Keywords + Lag,ARIMAX,17,536.29,0.61,468.57
+Keywords + Lag,ARIMAX,18,86.78,0.11,65.27
+Keywords + Lag,ARIMAX,19,61.26,0.12,58.62
+Keywords + Lag,ARIMAX,20,57.08,0.06,44.27
+Keywords + Lag,ARIMAX,21,79.56,0.05,51.12
+Keywords + Lag,ARIMAX,22,345.07,0.29,328.09
+Keywords + Lag,ARIMAX,23,803.28,0.94,592.18
+Keywords + Lag,ARIMAX,24,601.72,0.44,574.35
+Keywords + Lag,ARIMAX,25,202.4,0.09,137.86
+Keywords + Lag,ARIMAX,26,416.18,0.14,266.42
+Keywords + Lag,ARIMAX,27,61.81,0.04,45.76
+Keywords + Lag,ARIMAX,28,196.96,0.13,180.66
+Keywords + Lag,ARIMAX,29,209.86,0.15,206.53
+Keywords + Lag,ARIMAX,30,284.62,0.2,231.06
+Keywords + Lag,ARIMAX,31,499.77,0.38,434.35
+Keywords + Lag,ARIMAX,32,159.94,0.09,137.99
+Keywords + Lag,ARIMAX,33,197.62,0.09,146.47
+Keywords + Lag,ARIMAX,34,100.5,0.06,87.17
+Keywords + Lag,ARIMAX,35,229.54,0.11,189.19
+Keywords + Lag,ARIMAX,36,307.44,0.13,253.38
+Keywords + Lag,ARIMAX,37,181.83,0.08,174.46
+Keywords + Lag,ARIMAX,38,741.5,0.17,574.63
+Keywords + Lag,ARIMAX,39,242.66,0.08,219.68
+Keywords + Lag,ARIMAX,40,419.06,0.09,318.8
+Keywords + Lag,ARIMAX,41,353.51,0.09,352.51
+Keywords + Lag,ARIMAX,42,1330.19,0.16,1075.13
+Keywords + Lag,ARIMAX,43,1343.45,0.24,1163.94
+Keywords + Lag,ARIMAX,44,674.09,0.08,539.11
+Keywords + Lag,ARIMAX,45,1926.02,0.17,1453.21
+Keywords + Lag,ARIMAX,46,9511.04,0.37,6616.31
+Keywords + Lag,ARIMAX,47,17107.95,1.68,12651.19
+Keywords + Lag,ARIMAX,48,17491.93,2.72,17073.57
+Keywords + Lag,ARIMAX,49,2540.94,0.2,2310.76
+Keywords + Lag,ARIMAX,50,14277.69,0.42,10602.36
+Keywords + Lag,ARIMAX,51,10584.53,1.09,9791.32
+Keywords + Lag,ARIMAX,52,1916.21,0.14,1782.66
+Keywords + Lag,ARIMAX,53,1513.9,0.09,1265.34
+Keywords + Lag,ARIMAX,54,7316.24,0.17,4631.61
+Keywords + Lag,ARIMAX,55,6378.75,0.4,6309.16
+Keywords + Lag,ARIMAX,56,1147.65,0.05,925.37
+Keywords + Lag,ARIMAX,57,1854.41,0.08,1423.58
+Keywords + Lag,ARIMAX,58,3564.75,0.11,2262.37
+Keywords + Lag,ARIMAX,59,5221.72,0.18,3889.78
+Keywords + Lag,ARIMAX,60,4793.48,0.18,4245.73
+Keywords + Lag,ARIMAX,61,4546.71,0.14,3602.25
+Keywords + Lag,ARIMAX,62,2216.55,0.08,1880.28
+Keywords + Lag,ARIMAX,63,4488.78,0.12,3243.87
+Keywords + Lag,ARIMAX,64,2019.04,0.07,1830.96
+Keywords + Lag,ARIMAX,65,1353.1,0.04,1112.47
+Keywords + Lag,ARIMAX,66,5350.42,0.14,4933.59
+Bijtelling + Lag,Linear Regression,1,573.11,1.77,526.5
+Bijtelling + Lag,Linear Regression,2,335.05,1.23,328.37
+Bijtelling + Lag,Linear Regression,3,244.17,1.04,239.62
+Bijtelling + Lag,Linear Regression,4,69.59,0.1,45.5
+Bijtelling + Lag,Linear Regression,5,55.82,0.09,48.48
+Bijtelling + Lag,Linear Regression,6,47.92,0.12,41.02
+Bijtelling + Lag,Linear Regression,7,61.29,0.18,60.86
+Bijtelling + Lag,Linear Regression,8,113.44,0.12,87.95
+Bijtelling + Lag,Linear Regression,9,151.81,0.21,147.64
+Bijtelling + Lag,Linear Regression,10,105.16,0.32,84.79
+Bijtelling + Lag,Linear Regression,11,165.99,0.28,136.12
+Bijtelling + Lag,Linear Regression,12,165.55,0.16,136.84
+Bijtelling + Lag,Linear Regression,13,127.52,0.14,107.61
+Bijtelling + Lag,Linear Regression,14,248.25,0.37,245.61
+Bijtelling + Lag,Linear Regression,15,235.98,0.29,203.0
+Bijtelling + Lag,Linear Regression,16,109.5,0.11,104.55
+Bijtelling + Lag,Linear Regression,17,206.99,0.18,132.17
+Bijtelling + Lag,Linear Regression,18,245.25,0.44,241.26
+Bijtelling + Lag,Linear Regression,19,272.13,0.53,269.3
+Bijtelling + Lag,Linear Regression,20,104.21,0.12,103.14
+Bijtelling + Lag,Linear Regression,21,89.04,0.1,87.35
+Bijtelling + Lag,Linear Regression,22,504.54,0.36,443.37
+Bijtelling + Lag,Linear Regression,23,598.63,0.81,552.1
+Bijtelling + Lag,Linear Regression,24,616.09,0.44,574.49
+Bijtelling + Lag,Linear Regression,25,258.72,0.12,178.71
+Bijtelling + Lag,Linear Regression,26,483.67,0.15,287.85
+Bijtelling + Lag,Linear Regression,27,224.29,0.17,209.29
+Bijtelling + Lag,Linear Regression,28,198.36,0.14,192.19
+Bijtelling + Lag,Linear Regression,29,60.06,0.04,57.12
+Bijtelling + Lag,Linear Regression,30,146.83,0.11,119.52
+Bijtelling + Lag,Linear Regression,31,298.6,0.24,266.62
+Bijtelling + Lag,Linear Regression,32,83.07,0.05,73.75
+Bijtelling + Lag,Linear Regression,33,183.89,0.11,156.45
+Bijtelling + Lag,Linear Regression,34,135.54,0.09,123.46
+Bijtelling + Lag,Linear Regression,35,253.78,0.1,184.55
+Bijtelling + Lag,Linear Regression,36,352.34,0.14,298.95
+Bijtelling + Lag,Linear Regression,37,372.5,0.15,338.75
+Bijtelling + Lag,Linear Regression,38,993.49,0.22,750.95
+Bijtelling + Lag,Linear Regression,39,251.5,0.06,171.1
+Bijtelling + Lag,Linear Regression,40,488.79,0.11,380.84
+Bijtelling + Lag,Linear Regression,41,368.43,0.09,357.59
+Bijtelling + Lag,Linear Regression,42,1417.93,0.16,1090.98
+Bijtelling + Lag,Linear Regression,43,1424.87,0.25,1200.17
+Bijtelling + Lag,Linear Regression,44,1455.08,0.19,1235.81
+Bijtelling + Lag,Linear Regression,45,2205.31,0.21,1773.32
+Bijtelling + Lag,Linear Regression,46,8587.34,0.42,6733.06
+Bijtelling + Lag,Linear Regression,47,18617.84,1.99,14866.88
+Bijtelling + Lag,Linear Regression,48,20815.49,2.99,20420.27
+Bijtelling + Lag,Linear Regression,49,3025.59,0.26,2896.07
+Bijtelling + Lag,Linear Regression,50,12917.06,0.35,9234.71
+Bijtelling + Lag,Linear Regression,51,12344.03,1.3,11544.54
+Bijtelling + Lag,Linear Regression,52,1001.61,0.08,938.04
+Bijtelling + Lag,Linear Regression,53,2274.23,0.14,2057.25
+Bijtelling + Lag,Linear Regression,54,7235.76,0.18,4839.89
+Bijtelling + Lag,Linear Regression,55,2936.65,0.18,2547.23
+Bijtelling + Lag,Linear Regression,56,889.17,0.05,841.71
+Bijtelling + Lag,Linear Regression,57,2234.26,0.11,1716.99
+Bijtelling + Lag,Linear Regression,58,2937.42,0.16,2815.92
+Bijtelling + Lag,Linear Regression,59,3993.43,0.11,2631.51
+Bijtelling + Lag,Linear Regression,60,3691.23,0.12,3040.3
+Bijtelling + Lag,Linear Regression,61,3944.58,0.12,3053.26
+Bijtelling + Lag,Linear Regression,62,3056.28,0.12,2808.83
+Bijtelling + Lag,Linear Regression,63,3439.54,0.1,2722.86
+Bijtelling + Lag,Linear Regression,64,1236.73,0.04,959.92
+Bijtelling + Lag,Linear Regression,65,1694.26,0.06,1449.2
+Bijtelling + Lag,Linear Regression,66,5192.08,0.14,4791.6
+Bijtelling + Lag,XGBoost,1,60.19,0.16,42.61
+Bijtelling + Lag,XGBoost,2,64.66,0.22,57.11
+Bijtelling + Lag,XGBoost,3,89.75,0.41,86.03
+Bijtelling + Lag,XGBoost,4,182.31,0.36,171.33
+Bijtelling + Lag,XGBoost,5,53.4,0.08,42.06
+Bijtelling + Lag,XGBoost,6,149.4,0.4,132.93
+Bijtelling + Lag,XGBoost,7,104.64,0.32,104.18
+Bijtelling + Lag,XGBoost,8,272.78,0.35,264.29
+Bijtelling + Lag,XGBoost,9,230.6,0.27,196.28
+Bijtelling + Lag,XGBoost,10,144.39,0.38,131.2
+Bijtelling + Lag,XGBoost,11,83.39,0.18,77.57
+Bijtelling + Lag,XGBoost,12,85.04,0.09,78.28
+Bijtelling + Lag,XGBoost,13,116.8,0.12,90.86
+Bijtelling + Lag,XGBoost,14,157.38,0.2,139.66
+Bijtelling + Lag,XGBoost,15,273.47,0.33,228.91
+Bijtelling + Lag,XGBoost,16,346.99,0.36,340.9
+Bijtelling + Lag,XGBoost,17,178.7,0.19,155.88
+Bijtelling + Lag,XGBoost,18,114.48,0.17,98.41
+Bijtelling + Lag,XGBoost,19,205.51,0.31,150.32
+Bijtelling + Lag,XGBoost,20,152.88,0.18,147.19
+Bijtelling + Lag,XGBoost,21,77.52,0.06,56.8
+Bijtelling + Lag,XGBoost,22,677.57,0.38,523.6
+Bijtelling + Lag,XGBoost,23,699.7,0.81,572.75
+Bijtelling + Lag,XGBoost,24,269.67,0.14,188.47
+Bijtelling + Lag,XGBoost,25,257.67,0.16,221.0
+Bijtelling + Lag,XGBoost,26,585.83,0.33,506.72
+Bijtelling + Lag,XGBoost,27,377.47,0.28,340.71
+Bijtelling + Lag,XGBoost,28,303.4,0.19,256.67
+Bijtelling + Lag,XGBoost,29,163.62,0.11,146.87
+Bijtelling + Lag,XGBoost,30,268.05,0.18,228.87
+Bijtelling + Lag,XGBoost,31,351.24,0.28,305.87
+Bijtelling + Lag,XGBoost,32,299.11,0.17,276.77
+Bijtelling + Lag,XGBoost,33,226.49,0.13,201.12
+Bijtelling + Lag,XGBoost,34,119.81,0.09,119.53
+Bijtelling + Lag,XGBoost,35,304.11,0.18,291.54
+Bijtelling + Lag,XGBoost,36,531.36,0.23,479.57
+Bijtelling + Lag,XGBoost,37,345.92,0.14,320.74
+Bijtelling + Lag,XGBoost,38,902.36,0.18,642.99
+Bijtelling + Lag,XGBoost,39,745.77,0.2,614.64
+Bijtelling + Lag,XGBoost,40,493.5,0.09,357.72
+Bijtelling + Lag,XGBoost,41,837.88,0.15,654.95
+Bijtelling + Lag,XGBoost,42,2269.55,0.29,1873.31
+Bijtelling + Lag,XGBoost,43,2129.45,0.31,1817.36
+Bijtelling + Lag,XGBoost,44,992.89,0.12,769.09
+Bijtelling + Lag,XGBoost,45,2562.07,0.2,1819.81
+Bijtelling + Lag,XGBoost,46,9681.88,0.37,6991.22
+Bijtelling + Lag,XGBoost,47,9080.86,0.77,5925.27
+Bijtelling + Lag,XGBoost,48,1478.79,0.22,1467.96
+Bijtelling + Lag,XGBoost,49,1890.52,0.16,1758.78
+Bijtelling + Lag,XGBoost,50,6430.94,0.23,5242.9
+Bijtelling + Lag,XGBoost,51,6618.18,0.55,4624.2
+Bijtelling + Lag,XGBoost,52,2903.51,0.2,2627.11
+Bijtelling + Lag,XGBoost,53,2495.04,0.14,2027.71
+Bijtelling + Lag,XGBoost,54,919.19,0.04,804.53
+Bijtelling + Lag,XGBoost,55,5527.0,0.28,4760.99
+Bijtelling + Lag,XGBoost,56,1208.81,0.06,1083.71
+Bijtelling + Lag,XGBoost,57,2152.12,0.13,2107.99
+Bijtelling + Lag,XGBoost,58,4521.02,0.21,3899.7
+Bijtelling + Lag,XGBoost,59,4635.98,0.13,2941.91
+Bijtelling + Lag,XGBoost,60,2792.21,0.11,2379.97
+Bijtelling + Lag,XGBoost,61,3779.42,0.11,3003.38
+Bijtelling + Lag,XGBoost,62,2782.84,0.11,2487.23
+Bijtelling + Lag,XGBoost,63,2795.51,0.09,2277.33
+Bijtelling + Lag,XGBoost,64,2135.5,0.06,1734.87
+Bijtelling + Lag,XGBoost,65,2689.1,0.06,1632.76
+Bijtelling + Lag,XGBoost,66,12505.56,0.32,11423.36
+Bijtelling + Lag,ARIMAX,1,367.15,1.14,342.69
+Bijtelling + Lag,ARIMAX,2,459.06,1.73,453.16
+Bijtelling + Lag,ARIMAX,3,246.3,1.05,242.09
+Bijtelling + Lag,ARIMAX,4,146.21,0.26,122.66
+Bijtelling + Lag,ARIMAX,5,142.28,0.27,139.96
+Bijtelling + Lag,ARIMAX,6,25.98,0.07,25.07
+Bijtelling + Lag,ARIMAX,7,74.36,0.19,69.71
+Bijtelling + Lag,ARIMAX,8,274.76,0.36,261.35
+Bijtelling + Lag,ARIMAX,9,384.81,0.56,349.99
+Bijtelling + Lag,ARIMAX,10,253.18,0.79,251.81
+Bijtelling + Lag,ARIMAX,11,131.53,0.17,99.95
+Bijtelling + Lag,ARIMAX,12,123.61,0.13,111.6
+Bijtelling + Lag,ARIMAX,13,114.63,0.1,77.85
+Bijtelling + Lag,ARIMAX,14,232.04,0.34,192.74
+Bijtelling + Lag,ARIMAX,15,395.45,0.34,280.63
+Bijtelling + Lag,ARIMAX,16,189.81,0.19,179.42
+Bijtelling + Lag,ARIMAX,17,366.09,0.44,353.47
+Bijtelling + Lag,ARIMAX,18,35.53,0.06,31.72
+Bijtelling + Lag,ARIMAX,19,60.01,0.11,51.19
+Bijtelling + Lag,ARIMAX,20,47.67,0.05,42.05
+Bijtelling + Lag,ARIMAX,21,96.79,0.07,71.04
+Bijtelling + Lag,ARIMAX,22,458.23,0.33,407.33
+Bijtelling + Lag,ARIMAX,23,653.23,0.89,584.6
+Bijtelling + Lag,ARIMAX,24,555.38,0.38,476.49
+Bijtelling + Lag,ARIMAX,25,216.42,0.12,166.97
+Bijtelling + Lag,ARIMAX,26,470.98,0.17,310.43
+Bijtelling + Lag,ARIMAX,27,288.58,0.16,207.7
+Bijtelling + Lag,ARIMAX,28,123.03,0.08,110.22
+Bijtelling + Lag,ARIMAX,29,72.13,0.05,71.05
+Bijtelling + Lag,ARIMAX,30,112.98,0.09,109.34
+Bijtelling + Lag,ARIMAX,31,339.69,0.3,329.44
+Bijtelling + Lag,ARIMAX,32,118.36,0.06,92.05
+Bijtelling + Lag,ARIMAX,33,156.15,0.1,152.13
+Bijtelling + Lag,ARIMAX,34,132.51,0.08,114.47
+Bijtelling + Lag,ARIMAX,35,256.62,0.11,193.77
+Bijtelling + Lag,ARIMAX,36,358.16,0.14,274.54
+Bijtelling + Lag,ARIMAX,37,269.81,0.12,261.58
+Bijtelling + Lag,ARIMAX,38,708.08,0.18,570.65
+Bijtelling + Lag,ARIMAX,39,311.65,0.09,245.07
+Bijtelling + Lag,ARIMAX,40,370.99,0.09,292.05
+Bijtelling + Lag,ARIMAX,41,362.9,0.09,355.38
+Bijtelling + Lag,ARIMAX,42,1183.99,0.14,946.56
+Bijtelling + Lag,ARIMAX,43,1524.78,0.28,1398.03
+Bijtelling + Lag,ARIMAX,44,1260.75,0.17,1081.8
+Bijtelling + Lag,ARIMAX,45,1893.03,0.18,1508.2
+Bijtelling + Lag,ARIMAX,46,9518.71,0.39,6849.62
+Bijtelling + Lag,ARIMAX,47,18824.99,1.98,14819.77
+Bijtelling + Lag,ARIMAX,48,20185.95,3.06,20042.9
+Bijtelling + Lag,ARIMAX,49,2633.68,0.22,2478.26
+Bijtelling + Lag,ARIMAX,50,12235.43,0.32,8593.74
+Bijtelling + Lag,ARIMAX,51,11643.96,1.16,10443.13
+Bijtelling + Lag,ARIMAX,52,1409.84,0.11,1349.83
+Bijtelling + Lag,ARIMAX,53,1924.47,0.12,1680.55
+Bijtelling + Lag,ARIMAX,54,6764.0,0.16,4320.25
+Bijtelling + Lag,ARIMAX,55,2964.22,0.19,2722.96
+Bijtelling + Lag,ARIMAX,56,1140.65,0.06,1038.6
+Bijtelling + Lag,ARIMAX,57,2498.35,0.13,2035.23
+Bijtelling + Lag,ARIMAX,58,3025.14,0.16,2923.9
+Bijtelling + Lag,ARIMAX,59,3986.88,0.12,2724.27
+Bijtelling + Lag,ARIMAX,60,3290.9,0.11,2750.39
+Bijtelling + Lag,ARIMAX,61,4036.08,0.13,3233.08
+Bijtelling + Lag,ARIMAX,62,3649.43,0.14,3380.82
+Bijtelling + Lag,ARIMAX,63,3236.42,0.09,2453.08
+Bijtelling + Lag,ARIMAX,64,994.7,0.03,695.2
+Bijtelling + Lag,ARIMAX,65,1946.64,0.07,1682.69
+Bijtelling + Lag,ARIMAX,66,4161.39,0.11,3758.65
+Confidence + Lag,Linear Regression,1,451.68,1.36,408.49
+Confidence + Lag,Linear Regression,2,325.59,1.23,287.15
+Confidence + Lag,Linear Regression,3,154.66,0.71,153.0
+Confidence + Lag,Linear Regression,4,421.38,0.81,388.0
+Confidence + Lag,Linear Regression,5,215.94,0.41,208.47
+Confidence + Lag,Linear Regression,6,207.29,0.49,150.94
+Confidence + Lag,Linear Regression,7,149.31,0.3,122.35
+Confidence + Lag,Linear Regression,8,113.91,0.13,95.61
+Confidence + Lag,Linear Regression,9,151.56,0.22,149.1
+Confidence + Lag,Linear Regression,10,99.79,0.32,86.79
+Confidence + Lag,Linear Regression,11,181.97,0.32,154.17
+Confidence + Lag,Linear Regression,12,166.96,0.16,136.0
+Confidence + Lag,Linear Regression,13,128.19,0.12,98.02
+Confidence + Lag,Linear Regression,14,228.7,0.33,224.98
+Confidence + Lag,Linear Regression,15,225.47,0.28,194.39
+Confidence + Lag,Linear Regression,16,101.01,0.1,96.44
+Confidence + Lag,Linear Regression,17,201.22,0.16,122.45
+Confidence + Lag,Linear Regression,18,210.38,0.38,203.25
+Confidence + Lag,Linear Regression,19,248.18,0.48,243.42
+Confidence + Lag,Linear Regression,20,60.76,0.07,57.9
+Confidence + Lag,Linear Regression,21,86.55,0.09,84.6
+Confidence + Lag,Linear Regression,22,432.08,0.32,387.64
+Confidence + Lag,Linear Regression,23,680.64,1.03,581.05
+Confidence + Lag,Linear Regression,24,238.76,0.17,221.36
+Confidence + Lag,Linear Regression,25,287.28,0.21,273.87
+Confidence + Lag,Linear Regression,26,405.6,0.2,321.48
+Confidence + Lag,Linear Regression,27,160.3,0.13,156.71
+Confidence + Lag,Linear Regression,28,106.38,0.07,98.76
+Confidence + Lag,Linear Regression,29,264.23,0.19,254.38
+Confidence + Lag,Linear Regression,30,402.37,0.34,398.45
+Confidence + Lag,Linear Regression,31,314.54,0.25,244.16
+Confidence + Lag,Linear Regression,32,68.11,0.04,61.83
+Confidence + Lag,Linear Regression,33,192.23,0.12,175.87
+Confidence + Lag,Linear Regression,34,207.99,0.15,189.95
+Confidence + Lag,Linear Regression,35,226.42,0.12,197.49
+Confidence + Lag,Linear Regression,36,323.56,0.15,295.43
+Confidence + Lag,Linear Regression,37,409.6,0.16,376.64
+Confidence + Lag,Linear Regression,38,1072.86,0.25,831.48
+Confidence + Lag,Linear Regression,39,174.38,0.06,165.06
+Confidence + Lag,Linear Regression,40,587.0,0.14,496.68
+Confidence + Lag,Linear Regression,41,398.37,0.09,379.01
+Confidence + Lag,Linear Regression,42,1530.76,0.17,1165.96
+Confidence + Lag,Linear Regression,43,1527.84,0.27,1312.68
+Confidence + Lag,Linear Regression,44,1432.17,0.19,1222.75
+Confidence + Lag,Linear Regression,45,2220.93,0.21,1786.28
+Confidence + Lag,Linear Regression,46,8597.05,0.42,6731.07
+Confidence + Lag,Linear Regression,47,18647.75,1.99,14869.41
+Confidence + Lag,Linear Regression,48,19963.03,2.92,19704.1
+Confidence + Lag,Linear Regression,49,3517.67,0.31,3414.05
+Confidence + Lag,Linear Regression,50,12702.86,0.32,8823.33
+Confidence + Lag,Linear Regression,51,11768.46,1.25,11106.64
+Confidence + Lag,Linear Regression,52,2189.86,0.18,2106.11
+Confidence + Lag,Linear Regression,53,2517.37,0.17,2441.9
+Confidence + Lag,Linear Regression,54,8521.7,0.26,6345.82
+Confidence + Lag,Linear Regression,55,2021.19,0.13,1882.3
+Confidence + Lag,Linear Regression,56,985.07,0.05,757.89
+Confidence + Lag,Linear Regression,57,1931.01,0.09,1531.83
+Confidence + Lag,Linear Regression,58,3265.71,0.15,2878.0
+Confidence + Lag,Linear Regression,59,4229.83,0.15,3182.04
+Confidence + Lag,Linear Regression,60,3677.81,0.12,3033.14
+Confidence + Lag,Linear Regression,61,3860.51,0.11,2983.2
+Confidence + Lag,Linear Regression,62,2379.63,0.09,2129.03
+Confidence + Lag,Linear Regression,63,3530.59,0.1,2830.5
+Confidence + Lag,Linear Regression,64,1148.42,0.03,858.2
+Confidence + Lag,Linear Regression,65,1707.83,0.06,1448.18
+Confidence + Lag,Linear Regression,66,6572.12,0.18,6175.74
+Confidence + Lag,XGBoost,1,58.66,0.14,37.67
+Confidence + Lag,XGBoost,2,64.18,0.22,56.71
+Confidence + Lag,XGBoost,3,91.46,0.42,87.9
+Confidence + Lag,XGBoost,4,190.46,0.38,181.07
+Confidence + Lag,XGBoost,5,55.87,0.08,43.6
+Confidence + Lag,XGBoost,6,151.03,0.4,134.19
+Confidence + Lag,XGBoost,7,97.81,0.3,96.63
+Confidence + Lag,XGBoost,8,265.43,0.34,257.53
+Confidence + Lag,XGBoost,9,235.1,0.28,201.72
+Confidence + Lag,XGBoost,10,204.21,0.5,168.15
+Confidence + Lag,XGBoost,11,115.63,0.23,106.06
+Confidence + Lag,XGBoost,12,181.09,0.2,180.81
+Confidence + Lag,XGBoost,13,156.88,0.18,144.22
+Confidence + Lag,XGBoost,14,144.33,0.21,132.91
+Confidence + Lag,XGBoost,15,236.44,0.27,194.07
+Confidence + Lag,XGBoost,16,276.83,0.29,276.26
+Confidence + Lag,XGBoost,17,122.21,0.14,112.73
+Confidence + Lag,XGBoost,18,156.57,0.28,150.57
+Confidence + Lag,XGBoost,19,193.53,0.3,142.44
+Confidence + Lag,XGBoost,20,122.29,0.13,106.32
+Confidence + Lag,XGBoost,21,96.18,0.07,68.27
+Confidence + Lag,XGBoost,22,673.72,0.38,521.93
+Confidence + Lag,XGBoost,23,671.08,0.81,551.54
+Confidence + Lag,XGBoost,24,367.34,0.21,284.89
+Confidence + Lag,XGBoost,25,212.39,0.12,167.77
+Confidence + Lag,XGBoost,26,610.41,0.34,524.51
+Confidence + Lag,XGBoost,27,372.24,0.29,341.25
+Confidence + Lag,XGBoost,28,161.74,0.09,131.92
+Confidence + Lag,XGBoost,29,217.46,0.14,186.5
+Confidence + Lag,XGBoost,30,209.78,0.17,203.87
+Confidence + Lag,XGBoost,31,271.53,0.19,236.31
+Confidence + Lag,XGBoost,32,312.64,0.18,292.09
+Confidence + Lag,XGBoost,33,341.9,0.14,238.51
+Confidence + Lag,XGBoost,34,254.54,0.14,208.82
+Confidence + Lag,XGBoost,35,332.08,0.2,318.66
+Confidence + Lag,XGBoost,36,583.82,0.23,500.77
+Confidence + Lag,XGBoost,37,758.31,0.34,752.98
+Confidence + Lag,XGBoost,38,899.68,0.18,641.45
+Confidence + Lag,XGBoost,39,665.0,0.19,577.48
+Confidence + Lag,XGBoost,40,977.61,0.2,766.02
+Confidence + Lag,XGBoost,41,1977.19,0.45,1881.65
+Confidence + Lag,XGBoost,42,2262.6,0.29,1862.91
+Confidence + Lag,XGBoost,43,2249.68,0.33,1914.28
+Confidence + Lag,XGBoost,44,825.69,0.1,660.79
+Confidence + Lag,XGBoost,45,2560.35,0.2,1822.11
+Confidence + Lag,XGBoost,46,9663.23,0.4,7191.19
+Confidence + Lag,XGBoost,47,9099.35,0.8,6150.82
+Confidence + Lag,XGBoost,48,1477.49,0.22,1457.57
+Confidence + Lag,XGBoost,49,1205.47,0.1,1093.03
+Confidence + Lag,XGBoost,50,6135.3,0.15,4204.32
+Confidence + Lag,XGBoost,51,6082.83,0.52,4428.68
+Confidence + Lag,XGBoost,52,2063.32,0.16,1916.96
+Confidence + Lag,XGBoost,53,2896.71,0.18,2667.58
+Confidence + Lag,XGBoost,54,4364.28,0.19,3913.36
+Confidence + Lag,XGBoost,55,3118.62,0.21,2973.57
+Confidence + Lag,XGBoost,56,1695.66,0.07,1319.8
+Confidence + Lag,XGBoost,57,1701.43,0.1,1629.33
+Confidence + Lag,XGBoost,58,5648.78,0.27,4996.12
+Confidence + Lag,XGBoost,59,4473.55,0.11,2725.51
+Confidence + Lag,XGBoost,60,3223.12,0.12,2656.36
+Confidence + Lag,XGBoost,61,4158.68,0.13,3294.25
+Confidence + Lag,XGBoost,62,3488.35,0.13,3058.24
+Confidence + Lag,XGBoost,63,5830.67,0.19,4954.21
+Confidence + Lag,XGBoost,64,4594.19,0.15,4012.55
+Confidence + Lag,XGBoost,65,1869.38,0.04,1185.76
+Confidence + Lag,XGBoost,66,10723.93,0.29,10064.12
+Confidence + Lag,ARIMAX,1,450.19,1.35,407.02
+Confidence + Lag,ARIMAX,2,360.88,1.33,314.13
+Confidence + Lag,ARIMAX,3,129.52,0.59,120.25
+Confidence + Lag,ARIMAX,4,333.49,0.64,306.54
+Confidence + Lag,ARIMAX,5,90.35,0.15,75.5
+Confidence + Lag,ARIMAX,6,34.1,0.05,21.82
+Confidence + Lag,ARIMAX,7,298.65,0.72,271.31
+Confidence + Lag,ARIMAX,8,313.1,0.4,295.3
+Confidence + Lag,ARIMAX,9,456.05,0.7,447.59
+Confidence + Lag,ARIMAX,10,225.56,0.71,224.43
+Confidence + Lag,ARIMAX,11,117.32,0.18,99.52
+Confidence + Lag,ARIMAX,12,144.65,0.13,115.79
+Confidence + Lag,ARIMAX,13,111.67,0.1,81.7
+Confidence + Lag,ARIMAX,14,236.37,0.37,232.33
+Confidence + Lag,ARIMAX,15,283.02,0.31,225.48
+Confidence + Lag,ARIMAX,16,132.79,0.11,108.75
+Confidence + Lag,ARIMAX,17,228.32,0.26,198.44
+Confidence + Lag,ARIMAX,18,141.52,0.26,140.49
+Confidence + Lag,ARIMAX,19,226.94,0.43,215.91
+Confidence + Lag,ARIMAX,20,34.42,0.03,30.08
+Confidence + Lag,ARIMAX,21,78.09,0.08,71.05
+Confidence + Lag,ARIMAX,22,516.0,0.39,471.27
+Confidence + Lag,ARIMAX,23,704.37,0.87,596.18
+Confidence + Lag,ARIMAX,24,562.1,0.4,509.59
+Confidence + Lag,ARIMAX,25,230.22,0.12,177.55
+Confidence + Lag,ARIMAX,26,482.7,0.18,318.22
+Confidence + Lag,ARIMAX,27,290.99,0.19,237.93
+Confidence + Lag,ARIMAX,28,173.16,0.11,157.16
+Confidence + Lag,ARIMAX,29,57.6,0.04,56.87
+Confidence + Lag,ARIMAX,30,124.05,0.1,123.83
+Confidence + Lag,ARIMAX,31,359.38,0.3,358.72
+Confidence + Lag,ARIMAX,32,165.54,0.09,131.28
+Confidence + Lag,ARIMAX,33,167.29,0.11,160.6
+Confidence + Lag,ARIMAX,34,115.84,0.06,95.75
+Confidence + Lag,ARIMAX,35,246.09,0.11,198.8
+Confidence + Lag,ARIMAX,36,354.67,0.12,247.21
+Confidence + Lag,ARIMAX,37,306.19,0.13,287.09
+Confidence + Lag,ARIMAX,38,726.23,0.18,582.53
+Confidence + Lag,ARIMAX,39,308.82,0.09,244.22
+Confidence + Lag,ARIMAX,40,393.81,0.09,313.53
+Confidence + Lag,ARIMAX,41,371.19,0.09,362.5
+Confidence + Lag,ARIMAX,42,1267.79,0.15,998.27
+Confidence + Lag,ARIMAX,43,1646.73,0.31,1518.92
+Confidence + Lag,ARIMAX,44,1273.91,0.17,1085.86
+Confidence + Lag,ARIMAX,45,1976.98,0.19,1570.8
+Confidence + Lag,ARIMAX,46,9494.51,0.39,6837.27
+Confidence + Lag,ARIMAX,47,18755.73,2.02,15111.22
+Confidence + Lag,ARIMAX,48,19671.67,2.99,19665.78
+Confidence + Lag,ARIMAX,49,3495.16,0.3,3389.68
+Confidence + Lag,ARIMAX,50,12264.72,0.34,8883.36
+Confidence + Lag,ARIMAX,51,13897.12,1.54,13620.85
+Confidence + Lag,ARIMAX,52,1457.62,0.12,1420.08
+Confidence + Lag,ARIMAX,53,2920.02,0.18,2649.59
+Confidence + Lag,ARIMAX,54,7254.93,0.18,4757.05
+Confidence + Lag,ARIMAX,55,2975.7,0.18,2469.36
+Confidence + Lag,ARIMAX,56,1279.92,0.06,1101.08
+Confidence + Lag,ARIMAX,57,2257.56,0.11,1773.38
+Confidence + Lag,ARIMAX,58,3342.07,0.17,3082.51
+Confidence + Lag,ARIMAX,59,4394.29,0.15,3317.46
+Confidence + Lag,ARIMAX,60,3314.31,0.11,2761.61
+Confidence + Lag,ARIMAX,61,3876.77,0.13,3347.48
+Confidence + Lag,ARIMAX,62,3788.19,0.15,3616.75
+Confidence + Lag,ARIMAX,63,2973.59,0.09,2411.64
+Confidence + Lag,ARIMAX,64,807.02,0.03,755.82
+Confidence + Lag,ARIMAX,65,2365.13,0.08,1922.4
+Confidence + Lag,ARIMAX,66,4977.24,0.13,4598.54
+Fuel + Lag,Linear Regression,1,351.65,1.09,325.13
+Fuel + Lag,Linear Regression,2,437.44,1.75,424.69
+Fuel + Lag,Linear Regression,3,602.43,2.47,583.47
+Fuel + Lag,Linear Regression,4,126.24,0.26,117.58
+Fuel + Lag,Linear Regression,5,273.09,0.48,256.1
+Fuel + Lag,Linear Regression,6,104.1,0.28,91.71
+Fuel + Lag,Linear Regression,7,131.65,0.4,129.17
+Fuel + Lag,Linear Regression,8,114.75,0.14,103.46
+Fuel + Lag,Linear Regression,9,155.19,0.19,140.11
+Fuel + Lag,Linear Regression,10,152.44,0.46,131.73
+Fuel + Lag,Linear Regression,11,197.09,0.33,162.86
+Fuel + Lag,Linear Regression,12,187.51,0.19,161.93
+Fuel + Lag,Linear Regression,13,118.18,0.12,93.44
+Fuel + Lag,Linear Regression,14,236.83,0.29,211.69
+Fuel + Lag,Linear Regression,15,321.07,0.34,251.86
+Fuel + Lag,Linear Regression,16,90.87,0.08,78.53
+Fuel + Lag,Linear Regression,17,218.93,0.21,158.8
+Fuel + Lag,Linear Regression,18,315.35,0.57,312.61
+Fuel + Lag,Linear Regression,19,318.01,0.61,314.26
+Fuel + Lag,Linear Regression,20,93.6,0.11,93.46
+Fuel + Lag,Linear Regression,21,77.11,0.08,76.98
+Fuel + Lag,Linear Regression,22,519.94,0.38,464.11
+Fuel + Lag,Linear Regression,23,655.21,0.9,597.68
+Fuel + Lag,Linear Regression,24,471.67,0.32,422.43
+Fuel + Lag,Linear Regression,25,227.44,0.1,152.84
+Fuel + Lag,Linear Regression,26,417.87,0.15,276.71
+Fuel + Lag,Linear Regression,27,240.12,0.19,233.41
+Fuel + Lag,Linear Regression,28,150.96,0.1,140.49
+Fuel + Lag,Linear Regression,29,214.61,0.14,185.93
+Fuel + Lag,Linear Regression,30,222.89,0.18,216.11
+Fuel + Lag,Linear Regression,31,356.24,0.3,331.19
+Fuel + Lag,Linear Regression,32,110.1,0.05,69.69
+Fuel + Lag,Linear Regression,33,234.7,0.14,204.36
+Fuel + Lag,Linear Regression,34,127.74,0.09,120.3
+Fuel + Lag,Linear Regression,35,234.21,0.09,171.51
+Fuel + Lag,Linear Regression,36,364.32,0.15,309.45
+Fuel + Lag,Linear Regression,37,399.06,0.16,365.79
+Fuel + Lag,Linear Regression,38,1000.86,0.23,770.5
+Fuel + Lag,Linear Regression,39,330.76,0.1,274.21
+Fuel + Lag,Linear Regression,40,388.99,0.09,294.11
+Fuel + Lag,Linear Regression,41,375.62,0.09,366.36
+Fuel + Lag,Linear Regression,42,1456.82,0.17,1132.52
+Fuel + Lag,Linear Regression,43,1422.04,0.25,1188.82
+Fuel + Lag,Linear Regression,44,1576.27,0.2,1288.33
+Fuel + Lag,Linear Regression,45,2186.0,0.21,1753.81
+Fuel + Lag,Linear Regression,46,8479.82,0.43,6728.72
+Fuel + Lag,Linear Regression,47,19093.95,2.03,15213.18
+Fuel + Lag,Linear Regression,48,20602.47,3.02,20377.17
+Fuel + Lag,Linear Regression,49,3144.86,0.27,3037.26
+Fuel + Lag,Linear Regression,50,12425.78,0.33,8758.61
+Fuel + Lag,Linear Regression,51,13178.39,1.39,12456.55
+Fuel + Lag,Linear Regression,52,769.95,0.06,656.61
+Fuel + Lag,Linear Regression,53,2177.61,0.14,1999.8
+Fuel + Lag,Linear Regression,54,7568.03,0.24,5755.48
+Fuel + Lag,Linear Regression,55,4444.22,0.29,4425.08
+Fuel + Lag,Linear Regression,56,935.5,0.05,789.86
+Fuel + Lag,Linear Regression,57,1713.96,0.1,1667.94
+Fuel + Lag,Linear Regression,58,2659.79,0.12,2211.12
+Fuel + Lag,Linear Regression,59,3489.18,0.11,2417.11
+Fuel + Lag,Linear Regression,60,3010.15,0.13,2920.37
+Fuel + Lag,Linear Regression,61,3730.2,0.12,3085.67
+Fuel + Lag,Linear Regression,62,3213.94,0.12,2775.86
+Fuel + Lag,Linear Regression,63,3567.62,0.1,2623.5
+Fuel + Lag,Linear Regression,64,1464.31,0.04,1095.99
+Fuel + Lag,Linear Regression,65,1638.77,0.06,1393.19
+Fuel + Lag,Linear Regression,66,4992.77,0.13,4648.23
+Fuel + Lag,XGBoost,1,58.66,0.14,37.67
+Fuel + Lag,XGBoost,2,68.31,0.23,59.76
+Fuel + Lag,XGBoost,3,120.07,0.52,112.7
+Fuel + Lag,XGBoost,4,226.6,0.46,218.61
+Fuel + Lag,XGBoost,5,56.86,0.08,44.22
+Fuel + Lag,XGBoost,6,145.44,0.38,125.83
+Fuel + Lag,XGBoost,7,117.25,0.32,112.92
+Fuel + Lag,XGBoost,8,350.02,0.47,345.56
+Fuel + Lag,XGBoost,9,217.64,0.21,165.68
+Fuel + Lag,XGBoost,10,99.41,0.28,97.01
+Fuel + Lag,XGBoost,11,106.0,0.18,94.34
+Fuel + Lag,XGBoost,12,62.49,0.05,47.74
+Fuel + Lag,XGBoost,13,116.29,0.13,92.62
+Fuel + Lag,XGBoost,14,168.64,0.23,128.0
+Fuel + Lag,XGBoost,15,279.91,0.41,250.55
+Fuel + Lag,XGBoost,16,32.36,0.03,28.37
+Fuel + Lag,XGBoost,17,127.57,0.14,106.42
+Fuel + Lag,XGBoost,18,306.1,0.54,292.75
+Fuel + Lag,XGBoost,19,211.28,0.38,195.09
+Fuel + Lag,XGBoost,20,143.92,0.16,132.23
+Fuel + Lag,XGBoost,21,66.18,0.05,50.95
+Fuel + Lag,XGBoost,22,684.68,0.43,564.42
+Fuel + Lag,XGBoost,23,692.68,0.83,579.98
+Fuel + Lag,XGBoost,24,269.47,0.13,176.75
+Fuel + Lag,XGBoost,25,202.51,0.11,152.85
+Fuel + Lag,XGBoost,26,799.92,0.36,601.31
+Fuel + Lag,XGBoost,27,348.28,0.25,308.51
+Fuel + Lag,XGBoost,28,330.06,0.2,274.26
+Fuel + Lag,XGBoost,29,270.79,0.17,232.84
+Fuel + Lag,XGBoost,30,275.01,0.19,238.77
+Fuel + Lag,XGBoost,31,290.07,0.24,287.65
+Fuel + Lag,XGBoost,32,362.1,0.23,359.25
+Fuel + Lag,XGBoost,33,246.1,0.1,173.1
+Fuel + Lag,XGBoost,34,145.64,0.1,133.75
+Fuel + Lag,XGBoost,35,344.46,0.18,300.27
+Fuel + Lag,XGBoost,36,644.12,0.29,591.65
+Fuel + Lag,XGBoost,37,346.65,0.15,338.36
+Fuel + Lag,XGBoost,38,905.24,0.19,653.63
+Fuel + Lag,XGBoost,39,731.06,0.19,598.31
+Fuel + Lag,XGBoost,40,476.8,0.09,342.43
+Fuel + Lag,XGBoost,41,814.19,0.14,635.05
+Fuel + Lag,XGBoost,42,2436.85,0.29,1927.15
+Fuel + Lag,XGBoost,43,2158.66,0.31,1818.35
+Fuel + Lag,XGBoost,44,929.49,0.13,834.86
+Fuel + Lag,XGBoost,45,2449.68,0.25,2029.48
+Fuel + Lag,XGBoost,46,9700.46,0.37,6993.8
+Fuel + Lag,XGBoost,47,9081.72,0.79,6021.59
+Fuel + Lag,XGBoost,48,1591.93,0.25,1533.59
+Fuel + Lag,XGBoost,49,1726.63,0.11,1314.78
+Fuel + Lag,XGBoost,50,10160.29,0.33,7978.45
+Fuel + Lag,XGBoost,51,6925.86,0.59,4960.42
+Fuel + Lag,XGBoost,52,2813.0,0.14,2015.55
+Fuel + Lag,XGBoost,53,2326.37,0.13,1936.93
+Fuel + Lag,XGBoost,54,937.5,0.04,664.79
+Fuel + Lag,XGBoost,55,5128.38,0.24,4221.03
+Fuel + Lag,XGBoost,56,1257.37,0.06,1006.64
+Fuel + Lag,XGBoost,57,1337.43,0.07,1200.3
+Fuel + Lag,XGBoost,58,3715.2,0.13,2654.74
+Fuel + Lag,XGBoost,59,5349.34,0.18,3963.62
+Fuel + Lag,XGBoost,60,3769.39,0.14,3290.08
+Fuel + Lag,XGBoost,61,8629.65,0.33,8487.59
+Fuel + Lag,XGBoost,62,2885.55,0.11,2467.6
+Fuel + Lag,XGBoost,63,3276.67,0.09,2528.0
+Fuel + Lag,XGBoost,64,601.01,0.02,507.82
+Fuel + Lag,XGBoost,65,2506.7,0.08,2162.08
+Fuel + Lag,XGBoost,66,10216.42,0.28,9669.85
+Fuel + Lag,ARIMAX,1,115.72,0.32,99.65
+Fuel + Lag,ARIMAX,2,430.55,1.72,420.19
+Fuel + Lag,ARIMAX,3,328.07,1.46,325.85
+Fuel + Lag,ARIMAX,4,93.67,0.15,65.7
+Fuel + Lag,ARIMAX,5,311.59,0.55,294.91
+Fuel + Lag,ARIMAX,6,96.3,0.26,87.63
+Fuel + Lag,ARIMAX,7,166.92,0.45,152.67
+Fuel + Lag,ARIMAX,8,217.08,0.29,207.02
+Fuel + Lag,ARIMAX,9,346.16,0.49,334.73
+Fuel + Lag,ARIMAX,10,291.74,0.74,264.16
+Fuel + Lag,ARIMAX,11,118.94,0.19,101.95
+Fuel + Lag,ARIMAX,12,178.46,0.2,167.27
+Fuel + Lag,ARIMAX,13,56.57,0.07,56.04
+Fuel + Lag,ARIMAX,14,257.23,0.41,249.23
+Fuel + Lag,ARIMAX,15,342.02,0.35,266.08
+Fuel + Lag,ARIMAX,16,195.44,0.17,157.6
+Fuel + Lag,ARIMAX,17,247.17,0.31,242.39
+Fuel + Lag,ARIMAX,18,84.59,0.13,76.97
+Fuel + Lag,ARIMAX,19,150.51,0.29,146.85
+Fuel + Lag,ARIMAX,20,31.8,0.03,26.31
+Fuel + Lag,ARIMAX,21,81.98,0.06,54.13
+Fuel + Lag,ARIMAX,22,542.14,0.39,480.83
+Fuel + Lag,ARIMAX,23,708.56,0.89,612.85
+Fuel + Lag,ARIMAX,24,466.23,0.32,408.7
+Fuel + Lag,ARIMAX,25,204.31,0.11,157.7
+Fuel + Lag,ARIMAX,26,400.54,0.18,297.44
+Fuel + Lag,ARIMAX,27,253.0,0.2,249.68
+Fuel + Lag,ARIMAX,28,120.19,0.07,98.13
+Fuel + Lag,ARIMAX,29,224.12,0.15,202.11
+Fuel + Lag,ARIMAX,30,150.81,0.11,134.67
+Fuel + Lag,ARIMAX,31,393.05,0.33,387.3
+Fuel + Lag,ARIMAX,32,210.63,0.12,183.97
+Fuel + Lag,ARIMAX,33,235.5,0.13,192.8
+Fuel + Lag,ARIMAX,34,139.71,0.09,131.69
+Fuel + Lag,ARIMAX,35,215.62,0.09,161.06
+Fuel + Lag,ARIMAX,36,353.34,0.13,271.57
+Fuel + Lag,ARIMAX,37,314.85,0.11,263.33
+Fuel + Lag,ARIMAX,38,883.0,0.21,688.6
+Fuel + Lag,ARIMAX,39,305.9,0.09,256.06
+Fuel + Lag,ARIMAX,40,338.98,0.08,286.01
+Fuel + Lag,ARIMAX,41,401.3,0.1,392.72
+Fuel + Lag,ARIMAX,42,1577.39,0.18,1206.29
+Fuel + Lag,ARIMAX,43,1535.05,0.28,1381.73
+Fuel + Lag,ARIMAX,44,1317.14,0.17,1097.52
+Fuel + Lag,ARIMAX,45,1827.35,0.17,1439.93
+Fuel + Lag,ARIMAX,46,9332.52,0.4,6838.15
+Fuel + Lag,ARIMAX,47,19302.0,2.11,15710.01
+Fuel + Lag,ARIMAX,48,20441.93,3.09,20419.52
+Fuel + Lag,ARIMAX,49,2839.89,0.24,2716.46
+Fuel + Lag,ARIMAX,50,11854.35,0.3,8177.38
+Fuel + Lag,ARIMAX,51,12265.62,1.22,11073.35
+Fuel + Lag,ARIMAX,52,1606.77,0.11,1408.56
+Fuel + Lag,ARIMAX,53,1530.04,0.1,1529.78
+Fuel + Lag,ARIMAX,54,6675.52,0.19,4753.45
+Fuel + Lag,ARIMAX,55,4871.57,0.32,4862.57
+Fuel + Lag,ARIMAX,56,828.41,0.05,801.16
+Fuel + Lag,ARIMAX,57,1705.73,0.1,1689.96
+Fuel + Lag,ARIMAX,58,2802.43,0.13,2433.67
+Fuel + Lag,ARIMAX,59,3351.13,0.1,2306.71
+Fuel + Lag,ARIMAX,60,2434.88,0.11,2388.19
+Fuel + Lag,ARIMAX,61,3945.76,0.14,3367.22
+Fuel + Lag,ARIMAX,62,3668.65,0.14,3201.65
+Fuel + Lag,ARIMAX,63,3504.11,0.1,2727.76
+Fuel + Lag,ARIMAX,64,1521.66,0.05,1346.76
+Fuel + Lag,ARIMAX,65,1905.1,0.07,1712.68
+Fuel + Lag,ARIMAX,66,4129.14,0.11,3805.92
+All Features,Linear Regression,1,889.04,2.86,848.09
+All Features,Linear Regression,2,223.71,0.89,218.32
+All Features,Linear Regression,3,3678.16,16.76,3668.75
+All Features,Linear Regression,4,309.54,0.64,301.13
+All Features,Linear Regression,5,218.61,0.38,188.4
+All Features,Linear Regression,6,101.03,0.24,89.36
+All Features,Linear Regression,7,292.49,0.59,240.6
+All Features,Linear Regression,8,221.76,0.26,197.2
+All Features,Linear Regression,9,189.35,0.18,149.05
+All Features,Linear Regression,10,120.22,0.35,104.26
+All Features,Linear Regression,11,424.14,0.83,400.03
+All Features,Linear Regression,12,207.52,0.22,194.04
+All Features,Linear Regression,13,104.08,0.11,87.71
+All Features,Linear Regression,14,262.33,0.25,204.91
+All Features,Linear Regression,15,272.55,0.4,254.85
+All Features,Linear Regression,16,33.04,0.03,31.12
+All Features,Linear Regression,17,435.38,0.51,380.58
+All Features,Linear Regression,18,331.75,0.6,328.72
+All Features,Linear Regression,19,183.3,0.34,175.88
+All Features,Linear Regression,20,80.25,0.06,54.66
+All Features,Linear Regression,21,107.75,0.07,68.78
+All Features,Linear Regression,22,378.17,0.27,327.32
+All Features,Linear Regression,23,823.91,1.25,705.13
+All Features,Linear Regression,24,448.34,0.26,371.26
+All Features,Linear Regression,25,320.51,0.24,312.97
+All Features,Linear Regression,26,428.29,0.14,264.98
+All Features,Linear Regression,27,360.51,0.29,348.73
+All Features,Linear Regression,28,74.71,0.05,66.61
+All Features,Linear Regression,29,327.69,0.22,299.98
+All Features,Linear Regression,30,593.42,0.5,591.79
+All Features,Linear Regression,31,466.34,0.35,339.22
+All Features,Linear Regression,32,98.66,0.04,61.38
+All Features,Linear Regression,33,251.45,0.15,220.96
+All Features,Linear Regression,34,208.79,0.15,207.76
+All Features,Linear Regression,35,143.68,0.09,132.44
+All Features,Linear Regression,36,315.4,0.15,307.48
+All Features,Linear Regression,37,290.66,0.1,231.05
+All Features,Linear Regression,38,935.39,0.22,729.67
+All Features,Linear Regression,39,278.27,0.07,227.44
+All Features,Linear Regression,40,502.92,0.12,419.59
+All Features,Linear Regression,41,386.53,0.1,377.78
+All Features,Linear Regression,42,1393.09,0.17,1120.22
+All Features,Linear Regression,43,1473.54,0.25,1242.87
+All Features,Linear Regression,44,996.24,0.11,755.0
+All Features,Linear Regression,45,2184.96,0.2,1730.37
+All Features,Linear Regression,46,8592.91,0.38,6392.86
+All Features,Linear Regression,47,18001.85,1.78,13424.7
+All Features,Linear Regression,48,15646.66,2.34,15294.38
+All Features,Linear Regression,49,2193.04,0.17,1949.24
+All Features,Linear Regression,50,13472.76,0.33,9200.16
+All Features,Linear Regression,51,10853.03,1.13,10297.93
+All Features,Linear Regression,52,2775.75,0.17,2275.65
+All Features,Linear Regression,53,1968.25,0.11,1613.65
+All Features,Linear Regression,54,7853.02,0.21,5364.97
+All Features,Linear Regression,55,7884.65,0.48,7646.7
+All Features,Linear Regression,56,2873.69,0.15,2451.92
+All Features,Linear Regression,57,4560.55,0.27,4483.9
+All Features,Linear Regression,58,6148.09,0.32,5757.22
+All Features,Linear Regression,59,4669.56,0.16,3408.09
+All Features,Linear Regression,60,3467.02,0.13,3105.78
+All Features,Linear Regression,61,4290.08,0.12,3203.61
+All Features,Linear Regression,62,1816.49,0.07,1628.63
+All Features,Linear Regression,63,4394.0,0.11,3139.1
+All Features,Linear Regression,64,1914.73,0.05,1377.4
+All Features,Linear Regression,65,1053.19,0.03,802.65
+All Features,Linear Regression,66,8181.73,0.23,7857.3
+All Features,XGBoost,1,47.54,0.11,37.67
+All Features,XGBoost,2,67.31,0.23,59.75
+All Features,XGBoost,3,85.75,0.37,69.65
+All Features,XGBoost,4,194.42,0.38,182.46
+All Features,XGBoost,5,59.58,0.09,48.69
+All Features,XGBoost,6,124.27,0.32,101.29
+All Features,XGBoost,7,124.52,0.33,118.59
+All Features,XGBoost,8,344.53,0.46,339.7
+All Features,XGBoost,9,198.99,0.24,175.79
+All Features,XGBoost,10,278.21,0.67,232.1
+All Features,XGBoost,11,100.3,0.14,77.1
+All Features,XGBoost,12,181.82,0.17,160.37
+All Features,XGBoost,13,173.12,0.22,158.91
+All Features,XGBoost,14,165.54,0.25,152.15
+All Features,XGBoost,15,281.15,0.42,257.57
+All Features,XGBoost,16,37.42,0.04,34.87
+All Features,XGBoost,17,140.5,0.14,103.51
+All Features,XGBoost,18,226.08,0.38,205.52
+All Features,XGBoost,19,117.07,0.19,94.4
+All Features,XGBoost,20,95.04,0.07,56.89
+All Features,XGBoost,21,45.13,0.05,44.09
+All Features,XGBoost,22,527.94,0.37,464.29
+All Features,XGBoost,23,527.27,0.63,452.96
+All Features,XGBoost,24,551.7,0.41,546.07
+All Features,XGBoost,25,170.12,0.11,154.49
+All Features,XGBoost,26,682.69,0.31,515.48
+All Features,XGBoost,27,318.12,0.19,261.67
+All Features,XGBoost,28,321.95,0.19,264.06
+All Features,XGBoost,29,210.79,0.14,200.61
+All Features,XGBoost,30,240.3,0.2,238.67
+All Features,XGBoost,31,416.07,0.2,308.15
+All Features,XGBoost,32,300.18,0.19,299.81
+All Features,XGBoost,33,334.6,0.21,310.3
+All Features,XGBoost,34,216.02,0.11,173.02
+All Features,XGBoost,35,424.51,0.28,422.95
+All Features,XGBoost,36,630.86,0.29,600.39
+All Features,XGBoost,37,499.49,0.22,496.66
+All Features,XGBoost,38,939.11,0.19,667.52
+All Features,XGBoost,39,915.68,0.25,805.33
+All Features,XGBoost,40,874.51,0.2,727.87
+All Features,XGBoost,41,2027.22,0.45,1889.68
+All Features,XGBoost,42,2877.25,0.32,2181.48
+All Features,XGBoost,43,1997.62,0.27,1649.62
+All Features,XGBoost,44,1436.56,0.19,1251.03
+All Features,XGBoost,45,2555.45,0.29,2271.23
+All Features,XGBoost,46,11504.59,0.52,8198.04
+All Features,XGBoost,47,9028.66,0.82,5711.36
+All Features,XGBoost,48,2367.22,0.28,1821.91
+All Features,XGBoost,49,2706.29,0.23,2567.97
+All Features,XGBoost,50,9801.67,0.38,8316.14
+All Features,XGBoost,51,11717.09,1.34,11482.03
+All Features,XGBoost,52,3183.53,0.17,2468.69
+All Features,XGBoost,53,728.5,0.05,689.23
+All Features,XGBoost,54,3593.57,0.13,2902.87
+All Features,XGBoost,55,3020.76,0.19,2766.81
+All Features,XGBoost,56,1001.46,0.05,939.3
+All Features,XGBoost,57,1104.47,0.06,999.23
+All Features,XGBoost,58,3872.9,0.15,2987.33
+All Features,XGBoost,59,5808.7,0.23,4759.21
+All Features,XGBoost,60,5489.61,0.21,5055.71
+All Features,XGBoost,61,8089.08,0.31,7918.63
+All Features,XGBoost,62,1916.27,0.07,1576.67
+All Features,XGBoost,63,6679.44,0.2,5424.56
+All Features,XGBoost,64,5742.1,0.21,5615.09
+All Features,XGBoost,65,1849.06,0.06,1673.43
+All Features,XGBoost,66,11076.71,0.29,10376.12
+All Features,ARIMAX,1,889.1,2.86,848.14
+All Features,ARIMAX,2,224.21,0.89,218.85
+All Features,ARIMAX,3,3728.33,16.99,3719.08
+All Features,ARIMAX,4,276.75,0.58,271.52
+All Features,ARIMAX,5,251.55,0.47,239.8
+All Features,ARIMAX,6,88.26,0.14,59.02
+All Features,ARIMAX,7,247.74,0.49,201.51
+All Features,ARIMAX,8,344.97,0.41,312.62
+All Features,ARIMAX,9,329.66,0.4,291.32
+All Features,ARIMAX,10,203.56,0.6,200.76
+All Features,ARIMAX,11,195.78,0.34,167.81
+All Features,ARIMAX,12,97.71,0.1,80.27
+All Features,ARIMAX,13,176.59,0.21,151.64
+All Features,ARIMAX,14,324.8,0.32,260.28
+All Features,ARIMAX,15,428.18,0.67,353.95
+All Features,ARIMAX,16,154.58,0.14,125.73
+All Features,ARIMAX,17,487.85,0.57,422.12
+All Features,ARIMAX,18,229.41,0.42,228.4
+All Features,ARIMAX,19,88.02,0.16,76.77
+All Features,ARIMAX,20,54.65,0.06,50.99
+All Features,ARIMAX,21,98.55,0.08,74.17
+All Features,ARIMAX,22,514.65,0.34,443.19
+All Features,ARIMAX,23,784.3,1.11,731.58
+All Features,ARIMAX,24,758.34,0.58,749.17
+All Features,ARIMAX,25,277.29,0.14,200.32
+All Features,ARIMAX,26,487.11,0.17,313.47
+All Features,ARIMAX,27,273.14,0.18,242.4
+All Features,ARIMAX,28,154.36,0.1,146.33
+All Features,ARIMAX,29,198.21,0.13,180.58
+All Features,ARIMAX,30,269.72,0.21,254.97
+All Features,ARIMAX,31,505.13,0.42,472.36
+All Features,ARIMAX,32,254.19,0.15,240.64
+All Features,ARIMAX,33,266.36,0.12,193.82
+All Features,ARIMAX,34,119.88,0.09,113.29
+All Features,ARIMAX,35,119.73,0.06,106.99
+All Features,ARIMAX,36,296.16,0.12,250.12
+All Features,ARIMAX,37,183.51,0.08,177.44
+All Features,ARIMAX,38,767.92,0.19,620.38
+All Features,ARIMAX,39,279.84,0.09,262.69
+All Features,ARIMAX,40,415.63,0.09,327.02
+All Features,ARIMAX,41,392.65,0.1,388.05
+All Features,ARIMAX,42,1392.13,0.17,1121.48
+All Features,ARIMAX,43,1429.58,0.24,1179.42
+All Features,ARIMAX,44,894.39,0.1,652.47
+All Features,ARIMAX,45,1925.22,0.17,1469.06
+All Features,ARIMAX,46,9153.19,0.37,6490.98
+All Features,ARIMAX,47,18623.02,1.96,14663.25
+All Features,ARIMAX,48,16307.53,2.47,16029.36
+All Features,ARIMAX,49,1422.53,0.09,1086.25
+All Features,ARIMAX,50,13395.87,0.32,9063.34
+All Features,ARIMAX,51,11128.31,1.18,10642.67
+All Features,ARIMAX,52,2960.86,0.16,2227.49
+All Features,ARIMAX,53,2002.65,0.11,1689.31
+All Features,ARIMAX,54,7709.54,0.21,5351.17
+All Features,ARIMAX,55,7552.37,0.46,7316.82
+All Features,ARIMAX,56,2851.73,0.15,2434.84
+All Features,ARIMAX,57,4495.68,0.27,4419.33
+All Features,ARIMAX,58,6319.05,0.33,5989.85
+All Features,ARIMAX,59,4818.15,0.17,3586.2
+All Features,ARIMAX,60,3295.76,0.13,3046.38
+All Features,ARIMAX,61,4396.13,0.13,3363.19
+All Features,ARIMAX,62,2081.64,0.08,1801.26
+All Features,ARIMAX,63,4430.09,0.11,3039.76
+All Features,ARIMAX,64,1859.47,0.05,1363.03
+All Features,ARIMAX,65,1092.18,0.03,717.88
+All Features,ARIMAX,66,7728.77,0.21,7398.86
