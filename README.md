@@ -4,8 +4,12 @@ This repository contains the code, datasets, and modeling attempts for my master
 
 ## Repository Structure
 
-### 70%/
+
+### 100%/
 Contains all the code used for the final modeling process.
+
+- **FinalNotebook.ipynb**  
+  The main notebook where I iteratively built, tuned, and evaluated the final XGBoost model.
 
 - **Modelvergelijking.ipynb**  
   Early attempts to compare multiple models. No successful alternative to XGBoost was found here.
@@ -13,8 +17,7 @@ Contains all the code used for the final modeling process.
 - **Preprocessing.ipynb**  
   Scripts to load, clean, and merge all datasets used in the analysis.
 
-- **xgboost.ipynb**  
-  The main notebook where I iteratively built, tuned, and evaluated the final XGBoost model.
+
 
 ## Datasets (CSV Files)
 
