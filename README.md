@@ -5,8 +5,10 @@ This repository contains the code, datasets, and modeling attempts for my master
 ## Repository Structure
 
 
-### 100%/
+### 100%
 Contains all the code used for the final modeling process.
+
+- Final code snippets and clean explanations are provided in my thesis logbook (see: `logboek`).
 
 - **FinalNotebook.ipynb**  
   The main notebook where I iteratively built, tuned, and evaluated the final XGBoost model.
@@ -35,4 +37,10 @@ These files were used and referenced in the preprocessing and modeling notebooks
 ## Notes
 
 - The notebooks may be disorganized.
-- Final code snippets and clean explanations are provided in my thesis logbook (see: `logboek`).
+
+## AI Disclaimer
+
+This project uses machine learning models (e.g., XGBoost, ARIMAX) trained on publicly available datasets to forecast electric vehicle sales. While efforts were made to ensure data quality and model robustness, all predictions are subject to limitations inherent to the data and modeling assumptions. These outputs should not be used for high-stakes or commercial decisions without further validation.
+
+Generative AI tools were occasionally consulted to assist with explanations, clarification, language refinement, code formatting, and the general formulation of ideas. All content was critically reviewed and edited to ensure academic integrity.
+
