@@ -28,8 +28,8 @@ These files were used and referenced in the preprocessing and modeling notebooks
 | `consumentenvertrouwen_2007_Merged.csv` | Macroeconomic indicators (e.g., Consumer Confidence Index) from CBS |
 | `df_pompprijzen_Nieuwaggregatie.csv` | Aggregated monthly gas prices in the Netherlands |
 | `df_wegvoertuigen_2007.csv` | Monthly EV sales data |
-| `joined_trend_sales_All1.csv` | Final dataset used to train the XGBoost model (merged trends + sales) |
-| `samengevoegde_trends.csv` | Raw Google Trends data for all keyword candidates |
+| `datasetFinal.csv` | Final dataset used to train the model (merged trends + sales) |
+
 
 ## Notes
 
