@@ -5,7 +5,7 @@ This repository contains the code, datasets, and modeling attempts for my master
 ## Repository Structure
 
 
-### Revision
+### Final Revision
 Contains all the code used for the final modeling process.
 
 - Extra explanation about the model is provided in my thesis logbook (see: `logboek`).
